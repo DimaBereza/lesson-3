@@ -14,3 +14,7 @@ array.pop();    //удаляет последний элемент массив�
 console.log(array);
 array.push("Kut", "слон", "яблоко",77,true,["String","String2"]);   //добавляет последний элемент массива
 console.log(array);
+array.shift();
+console.log(array);
+array.unshift("слон","яблоко");
+console.log(array);
